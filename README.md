@@ -1,34 +1,40 @@
-# Hi there 👋
+# AhmetOzdemir34 🤙
+I have just graduated in **Suleyman Demirel University!** That's my funny github profile...
 
-### *I'm Ahmet and at Suleyman Demirel University as senior.*
-> [My Personal Web Site](https://ahmetz.com)
----
-### **_Let me introduce myself_**
+![Twitter Follow](https://img.shields.io/twitter/follow/ahmetozdemiiirr?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKmqtLg9iN1KPE5jt0CzRJQ?logo=Youtube&style=for-the-badge)
 
+### Let's see my stats in github. 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetOzdemir34)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm experienced at Javascript for 3 years. First, I learn HTML & CSS and JS. I developed basic projects.
+## The Developer Profiles
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=200 height=200/>
+## Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I researched and learned React to code more professional projects. Moreover w/ Nextjs. 🤠
+## Package Managers
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width=230 height=200/>
+## Main Language and SuperSet 🔥
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Now, I can code MERN Stack projects. After these, I have learned Nodejs and that framework Expressjs, MongoDB. My web site and final exam was created w/ MERN.
+## Front-end Skills
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg" width=400 height=200/>
-
-Sometimes, I'm coding to wonder Python. 😕
-
-```javascript
-function byeBye(){
-    console.log("See you :)");
-}
-byeBye();
-```
-
-![gorilla](https://c.tenor.com/FAS_-m0OwbcAAAAd/programmer-code.gif)
+## Backend Skills
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **AhmetOzdemir34/AhmetOzdemir34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
