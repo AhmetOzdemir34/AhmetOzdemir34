@@ -5,6 +5,8 @@
 ---
 ### **_Let me introduce myself_**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetOzdemir34)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm experienced at Javascript for 3 years. First, I learn HTML & CSS and JS. I developed basic projects.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=200 height=200/>
