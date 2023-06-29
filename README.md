@@ -1,5 +1,5 @@
 # AhmetOzdemir34 🤙
-I have just graduated in **Suleyman Demirel University!** That's my funny github profile...
+Full-time coding!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ahmetozdemiiirr?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKmqtLg9iN1KPE5jt0CzRJQ?logo=Youtube&style=for-the-badge)
