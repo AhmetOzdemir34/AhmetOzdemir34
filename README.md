@@ -4,6 +4,8 @@ Full-time coding!
 ![Twitter Follow](https://img.shields.io/twitter/follow/ahmetozdemiiirr?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKmqtLg9iN1KPE5jt0CzRJQ?logo=Youtube&style=for-the-badge)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Let's see my stats in github. 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetOzdemir34)](https://github.com/anuraghazra/github-readme-stats)
 
